@@ -44,6 +44,8 @@ dependencies:
   gal: ^2.3.0
   share_plus: ^7.2.2
   cross_file: ^0.3.3
+  image_picker: ^1.0.7
+  flutter_colorpicker: ^1.1.0
 
 dev_dependencies:
   flutter_test:
